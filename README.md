@@ -6,7 +6,7 @@ This application was used to solve misregistration and adapt to  geometric and t
 
 https://dl.acm.org/citation.cfm?id=3073679 
 
-To compile in linux, install PNG and Embree on your machine. Then, run the provided Makefile.
+To compile in linux, install PNG, OpenGL and Embree libraries on your machine. Then, run the provided Makefile.
 
 In Windows, move the \include and \lib folders from 4Windows.zip to the project root directory. Build the project from MeshStitching.sln, and copy the content of \dll to the \x64\Release.
 
